@@ -15,13 +15,17 @@ Features
 4.Lightweight and easy to run
 
 
+
 Tech Stack
 
 Language: Python
 
 GUI Framework: Tkinter
 
+
+
 Learning Outcome
+
 
 This project helped me understand:
 
@@ -30,6 +34,7 @@ This project helped me understand:
 2.Handling user input and validation
 
 3.Applying temperature conversion formulas programmatically
+
 
 Author
 
