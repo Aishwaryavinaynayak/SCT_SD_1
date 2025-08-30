@@ -23,7 +23,9 @@ Learning Outcome
 
 This project helped me understand:
 1.Building Python GUI applications with Tkinter
+
 2.Handling user input and validation
+
 3.Applying temperature conversion formulas programmatically
 
 Author
