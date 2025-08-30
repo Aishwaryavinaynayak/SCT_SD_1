@@ -16,12 +16,15 @@ Features
 
 
 Tech Stack
+
 Language: Python
+
 GUI Framework: Tkinter
 
 Learning Outcome
 
 This project helped me understand:
+
 1.Building Python GUI applications with Tkinter
 
 2.Handling user input and validation
@@ -29,4 +32,5 @@ This project helped me understand:
 3.Applying temperature conversion formulas programmatically
 
 Author
+
 Aishwarya Vinay Nayak https://www.linkedin.com/in/aishwarya-vinay-nayak-23ba39317/
