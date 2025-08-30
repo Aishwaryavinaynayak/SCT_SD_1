@@ -14,8 +14,20 @@ Features
 
 4.Lightweight and easy to run
 
+
 Tech Stack
-
 Language: Python
-
 GUI Framework: Tkinter
+
+Learning Outcome
+
+This project helped me understand:
+
+Building Python GUI applications with Tkinter
+
+Handling user input and validation
+
+Applying temperature conversion formulas programmatically
+
+Author
+Aishwarya Vinay Nayak https://www.linkedin.com/in/aishwarya-vinay-nayak-23ba39317/
