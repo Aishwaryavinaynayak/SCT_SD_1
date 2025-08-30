@@ -7,8 +7,11 @@ It allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin 
 Features
 
 1.Convert between Celsius, Fahrenheit, and Kelvin
+
 2.User-driven interface (dropdown selection & input field)
+
 3.Error handling for invalid inputs
+
 4.Lightweight and easy to run
 
 
