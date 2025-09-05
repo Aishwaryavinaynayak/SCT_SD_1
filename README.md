@@ -1,10 +1,11 @@
-Temperature Converter (Python GUI)
-Overview
+## Temperature Converter (Python GUI)
+
+## Overview
 
 This is a simple Temperature Converter Application built in Python using Tkinter.
 It allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin with a graphical user interface (GUI) for a user-friendly experience.
 
-Features
+##Features
 
 1.Convert between Celsius, Fahrenheit, and Kelvin
 
@@ -16,7 +17,7 @@ Features
 
 
 
-Tech Stack
+## Tech Stack
 
 Language: Python
 
@@ -24,7 +25,7 @@ GUI Framework: Tkinter
 
 
 
-Learning Outcome
+## Learning Outcome
 
 
 This project helped me understand:
@@ -36,6 +37,6 @@ This project helped me understand:
 3.Applying temperature conversion formulas programmatically
 
 
-Author
+## Author
 
 Aishwarya Vinay Nayak https://www.linkedin.com/in/aishwarya-vinay-nayak-23ba39317/
